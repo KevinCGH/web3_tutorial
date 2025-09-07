@@ -1,4 +1,4 @@
-package main
+package Task_1
 
 func RemoveDuplicatesFromSortedArray(nums []int) int {
 	n := len(nums)

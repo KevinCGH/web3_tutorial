@@ -1,4 +1,4 @@
-package main
+package Task_1
 
 func IsPalindromeNumber(x int) bool {
 	if x < 0 || (x%10 == 0 && x != 0) {

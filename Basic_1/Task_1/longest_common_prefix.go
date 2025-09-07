@@ -1,4 +1,4 @@
-package main
+package Task_1
 
 func LongestCommonPrefix(strs []string) string {
 	if len(strs) == 0 {

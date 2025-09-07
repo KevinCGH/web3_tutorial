@@ -1,4 +1,4 @@
-package main
+package Task_1
 
 func PlusOne(digits []int) []int {
 	length := len(digits)

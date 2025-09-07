@@ -1,4 +1,4 @@
-package main
+package Task_1
 
 import (
 	"testing"
@@ -8,7 +8,7 @@ import (
 
 func TestTask1(t *testing.T) {
 
-	Convey("Task1", t, func() {
+	Convey("Task 1", t, func() {
 		Convey("SingleNumber", func() {
 			testcases := []struct {
 				input    []int

@@ -1,4 +1,4 @@
-package main
+package Task_1
 
 /**
  * 只出现一次的数字
